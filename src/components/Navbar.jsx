@@ -195,7 +195,7 @@ function Navbar() {
             </li>
             <li>
               <a
-                href="#prestasi"
+                href="#experience"
                 className="block px-3 py-2 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent hover:text-mainColor md:border-0 md:hover:text-mainColor md:p-0 dark:text-white md:dark:hover:text-mainColor dark:hover:bg-gray-700 dark:hover:text-mainColor md:dark:hover:bg-transparent"
               >
                 Experience

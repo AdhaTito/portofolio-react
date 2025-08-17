@@ -26,7 +26,7 @@ function Hero() {
                 </span>
               </h1>
               <h1 className="mb-4 font-semibold dark:text-slate-200 text-secondaryColor md:text-2xl">
-                UI/UX Design | Front end Developer | Officer
+                Application Service | Front end Developer | UI/UX Designer
               </h1>
               <p className="text-base font-light text-secondaryColor mb-7 dark:text-slate-100">
                 "Kegagalan adalah kesempatan untuk memulai lagi dengan
