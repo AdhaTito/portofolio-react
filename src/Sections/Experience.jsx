@@ -20,7 +20,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/public/assets/Sertifikat Lulus Micromentor.jpg"
+                src="/Sertifikat Lulus Micromentor.jpg"
                 className="object-cover w-full"
                 alt=""
               ></img>
@@ -37,7 +37,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/public/assets/Intuit Design for Delight Innovator.jpg"
+                src="/Intuit Design for Delight Innovator.jpg"
                 className="object-cover w-full"
                 alt=""
               ></img>
@@ -57,7 +57,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/public/assets/serti-InfiniteLearning.png"
+                src="/serti-InfiniteLearning.png"
                 className="object-cover w-full"
                 alt=""
               ></img>
@@ -76,7 +76,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/public/assets/illustrated-dashboards-kibana.png"
+                src="/illustrated-dashboards-kibana.png"
                 className="object-cover w-full"
                 alt=""
               ></img>

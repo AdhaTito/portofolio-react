@@ -19,7 +19,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/html 5.png"
+                src="/html 5.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -28,7 +28,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/icon css 3.png"
+                src="/icon css 3.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -37,7 +37,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-80 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/tailwind.png"
+                src="/tailwind.png"
                 className="w-20 py-4 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -46,7 +46,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/bootstrap.png"
+                src="/bootstrap.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -55,7 +55,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/AdobePremier.png"
+                src="/AdobePremier.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -64,7 +64,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/photoshop.png"
+                src="/photoshop.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -73,7 +73,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/figma.png"
+                src="/figma.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -82,7 +82,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/ms office.png"
+                src="/ms office.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -91,7 +91,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/mysql.png"
+                src="/mysql.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -100,7 +100,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/Oracle-Logo.png"
+                src="/Oracle-Logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -109,7 +109,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/Elastic-Logo.png"
+                src="/Elastic-Logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -118,7 +118,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/Dynatrace-Logo.png"
+                src="/Dynatrace-Logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -127,7 +127,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/AWS-Logo.png"
+                src="/AWS-Logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -136,7 +136,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/React-Logo.png"
+                src="/React-Logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -145,7 +145,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/Php-Logo.png"
+                src="/Php-Logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -154,7 +154,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/Laravel-logo.png"
+                src="/Laravel-logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />
@@ -163,7 +163,7 @@ function Skiils() {
           <div className="mt-4 md:pt-10">
             <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
               <img
-                src="/public/assets/codeigniter-logo.png"
+                src="/codeigniter-logo.png"
                 className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
                 alt=""
               />

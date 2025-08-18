@@ -43,7 +43,7 @@ function Hero() {
             <div className="self-end px-4 md:w-1/2 ">
               <div className="mt-10">
                 <img
-                  src="/public/assets/Image Hero Portofolio.png"
+                  src="/Image Hero Portofolio.png"
                   alt=""
                   data-aos="fade-left"
                   data-aos-duration="1000"

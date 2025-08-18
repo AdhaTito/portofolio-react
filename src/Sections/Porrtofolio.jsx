@@ -24,7 +24,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/portofolio-pustaka-booking.png"
+                  src="/portofolio-pustaka-booking.png"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />
@@ -42,7 +42,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/portofolio-Daftar-KomiK.png"
+                  src="/portofolio-Daftar-KomiK.png"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />
@@ -60,7 +60,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/Portofolio-silicing-figma-code-2.png"
+                  src="/Portofolio-silicing-figma-code-2.png"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />
@@ -79,7 +79,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/portofolio-silicing-figma-code.png"
+                  src="/portofolio-silicing-figma-code.png"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />
@@ -98,7 +98,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/Portofolio-prototype-design.png"
+                  src="/Portofolio-prototype-design.png"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />
@@ -116,7 +116,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/Portofolio-prototype-design-2.png"
+                  src="/Portofolio-prototype-design-2.png"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />
@@ -134,7 +134,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/portofolio-dashboards-kibana.png"
+                  src="/portofolio-dashboards-kibana.png"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />
@@ -153,7 +153,7 @@ function Portofolio() {
             <div className="object-cover overflow-hidden rounded-md shadow-md">
               <Zoom>
                 <img
-                  src="/public/assets/portofolio-dynatrace-dashboard-2.jpg"
+                  src="/portofolio-dynatrace-dashboard-2.jpg"
                   alt="Zoomable"
                   classNameName="rounded-md shadow-md"
                 />

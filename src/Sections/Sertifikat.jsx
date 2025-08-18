@@ -24,7 +24,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/Intuit Design for Delight Innovator.jpg"
+                  src="/Intuit Design for Delight Innovator.jpg"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -34,7 +34,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/Sertifikat Adobe Ilustrator.png"
+                  src="/Sertifikat Adobe Ilustrator.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -44,7 +44,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/Sertifikat Lulus Micromentor.jpg"
+                  src="/Sertifikat Lulus Micromentor.jpg"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -54,7 +54,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/Sertifikat Python.png"
+                  src="/Sertifikat Python.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -64,7 +64,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/serti coding with mainecraft.jpg"
+                  src="/serti coding with mainecraft.jpg"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -74,7 +74,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/Serti GCF Microsoft Word.png"
+                  src="/Serti GCF Microsoft Word.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -84,7 +84,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/Serti Dasar Pemrograman.png"
+                  src="/Serti Dasar Pemrograman.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -94,7 +94,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/Serti Enterprenuership.png"
+                  src="/Serti Enterprenuership.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -104,7 +104,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/public/assets/serti-InfiniteLearning.png"
+                  src="/serti-InfiniteLearning.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
