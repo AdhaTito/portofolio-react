@@ -11,15 +11,20 @@ function About() {
               Ilmu yang paling hebat adalah ilmu yang bermanfaat
             </h4>
             <h4 className="text-justify text-secondaryColor dark:text-slate-100">
-              “Saya merupakan mahasiswa semester 8 Program Studi Sistem
-              Informasi dengan keahlian yang saya miliki yaitu Front-End
-              Developer, UI/UX Design dan berpengalaman sebagai Mentor Online di
-              Micromentor. Sertifikat-sertifikat yang sudah saya selesaikan
-              adalah Programming Essentials in Python, Design For Delight
-              (UI/UX), Adobe Ilustrator, lalu saya juga mengikuti bootcamp dari
-              Infinite Learning (Front-End Development), Soft Skill yang saya
-              miliki Problem Solving, Detail Oriented, Kreative, kemampuan
-              belajar mandiri, kerjasama tim, dan Mudah beradaptasi."
+              “Saya adalah lulusan dari Universitas BSI dengan gelar Sarjana
+              Ilmu Komputer (S.kom) dan fondasi yang kuat dalam pengembangan
+              front-end dan back-end. Pengalaman saya di Layanan Aplikasi TI
+              meliputi penanganan tiket insiden dan permintaan, melakukan
+              pemecahan masalah, dan menggunakan kueri SQL untuk pelaporan dan
+              pelacakan masalah. Saya ahli dalam teknologi front-end seperti
+              HTML5, Tailwind CSS, dan Bootstrap 5, serta pengembangan back-end
+              dengan PHP dan JavaScript. Saya juga berpengalaman menggunakan
+              Elastic Kibana untuk melacak log aplikasi dan mendukung
+              penyelesaian masalah yang efisien. Keahlian analitis saya yang
+              kuat, dipadukan dengan keahlian teknis saya, memungkinkan saya
+              untuk berkontribusi secara efektif pada pengembangan dan
+              operasional TI, memastikan pengalaman pengguna yang lancar dan
+              mulus."
             </h4>
           </div>
           <div className="px-4 mb-10 md:w-1/2">
@@ -36,6 +41,9 @@ function About() {
               >
                 <i className="duration-300 ease-in-out fa-brands fa-linkedin fa-2x text-secondaryColor dark:text-white hover:text-orange-500 dark:hover:text-orange-500"></i>
               </a>
+              <a target="_blank" href="https://github.com/AdhaTito">
+                <i className="duration-300 ease-in-out fab fa-github-square fa-2x text-secondaryColor dark:text-white hover:text-orange-500 dark:hover:text-orange-500"></i>
+              </a>
               <a
                 target="_blank"
                 href="https://api.whatsapp.com/send/?phone=6282124509598"
@@ -50,9 +58,6 @@ function About() {
                 href="https://www.facebook.com/zitcheron.zitcheron/"
               >
                 <i className="duration-300 ease-in-out fa-brands fa-square-facebook fa-2x text-secondaryColor dark:text-white hover:text-orange-500 dark:hover:text-orange-500"></i>
-              </a>
-              <a target="_blank" href="https://github.com/AdhaTito">
-                <i className="duration-300 ease-in-out fab fa-github-square fa-2x text-secondaryColor dark:text-white hover:text-orange-500 dark:hover:text-orange-500"></i>
               </a>
             </div>
           </div>

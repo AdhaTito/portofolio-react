@@ -151,6 +151,24 @@ function Skiils() {
               />
             </a>
           </div>
+          <div className="mt-4 md:pt-10">
+            <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
+              <img
+                src="/public/assets/Laravel-logo.png"
+                className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
+                alt=""
+              />
+            </a>
+          </div>
+          <div className="mt-4 md:pt-10">
+            <a className="transition grayscale opacity-60 hover:grayscale-0 hover:opacity-100 ">
+              <img
+                src="/public/assets/codeigniter-logo.png"
+                className="w-20 mt-10 duration-300 ease-in-out hover:scale-125"
+                alt=""
+              />
+            </a>
+          </div>
         </div>
       </div>
     </section>

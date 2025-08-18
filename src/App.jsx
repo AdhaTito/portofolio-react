@@ -7,6 +7,8 @@ import Portofolio from "./Sections/Porrtofolio";
 import Sertifikat from "./Sections/Sertifikat";
 import Skiils from "./Sections/Skills";
 import Experience from "./Sections/Experience";
+import Contacts from "./Sections/Contacts";
+import Footer from "./Sections/Footer";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <Skiils />
       <Sertifikat />
       <Experience />
+      <Contacts />
+      <Footer />
     </>
   );
 }
