@@ -20,7 +20,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/Sertifikat Lulus Micromentor.jpg"
+                src="/serti-micromentor.jpg"
                 className="object-cover w-full"
                 alt=""
               ></img>
@@ -37,7 +37,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/Intuit Design for Delight Innovator.jpg"
+                src="/serti-uiux.jpg"
                 className="object-cover w-full"
                 alt=""
               ></img>
@@ -57,7 +57,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/serti-InfiniteLearning.png"
+                src="/serti-Infinite-learning.png"
                 className="object-cover w-full"
                 alt=""
               ></img>
@@ -76,7 +76,7 @@ function Experience() {
           <div className="overflow-hidden font-semibold text-center transition-all duration-500 shadow-lg w-96 lg:w-96 md:w-80 sm:w-64 rounded-xl dark:bg-white bg-slate-100 hover:bg-mainColor hover:scale-105 hover:text-slate-100 dark:hover:bg-mainColor">
             <a>
               <img
-                src="/illustrated-dashboards-kibana.png"
+                src="/dashboard-kibana.png"
                 className="object-cover w-full"
                 alt=""
               ></img>

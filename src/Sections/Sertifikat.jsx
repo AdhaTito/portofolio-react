@@ -24,7 +24,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/Intuit Design for Delight Innovator.jpg"
+                  src="/serti-uiux.jpg"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -34,7 +34,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/Sertifikat Adobe Ilustrator.png"
+                  src="/serti-adobe-ilustrator.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -44,7 +44,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/Sertifikat Lulus Micromentor.jpg"
+                  src="/serti-micromentor.jpg"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -54,7 +54,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/Sertifikat Python.png"
+                  src="/serti-python.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -64,7 +64,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/serti coding with mainecraft.jpg"
+                  src="/serti-Infinite-learning.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -74,7 +74,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/Serti GCF Microsoft Word.png"
+                  src="/serti-microsoft-word.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -84,7 +84,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/Serti Dasar Pemrograman.png"
+                  src="/serti-dasar-pemrograman.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -94,7 +94,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/Serti Enterprenuership.png"
+                  src="/Serti-enterprenuership.png"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
@@ -104,7 +104,7 @@ function Sertifikat() {
                 data-carousel-item
               >
                 <img
-                  src="/serti-InfiniteLearning.png"
+                  src="/serti-coding-with-mainecraft.jpg"
                   className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                   alt="..."
                 />
