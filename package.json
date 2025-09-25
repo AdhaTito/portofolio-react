@@ -1,17 +1,13 @@
 {
-  "homepage": "https://AdhaTito.github.io/portofolio-react",
   "name": "portofolio-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-script-start",
-    "predeploy": "npm run -d build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
+    "start": "vite preview"
     "postinstall": "flowbite-react patch"
   },
   "dependencies": {
