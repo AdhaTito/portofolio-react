@@ -26,7 +26,7 @@ function Portofolio() {
                 <img
                   src="/portofolio-pustaka-booking.png"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>
@@ -44,7 +44,7 @@ function Portofolio() {
                 <img
                   src="/portofolio-Daftar-KomiK.png"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>
@@ -62,7 +62,7 @@ function Portofolio() {
                 <img
                   src="/Portofolio-silicing-figma-code-2.png"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>
@@ -81,7 +81,7 @@ function Portofolio() {
                 <img
                   src="/portofolio-silicing-figma-code.png"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>
@@ -100,7 +100,7 @@ function Portofolio() {
                 <img
                   src="/Portofolio-prototype-design.png"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>
@@ -118,7 +118,7 @@ function Portofolio() {
                 <img
                   src="/Portofolio-prototype-design-2.png"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>
@@ -136,7 +136,7 @@ function Portofolio() {
                 <img
                   src="/portofolio-dashboards-kibana.png"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>
@@ -155,7 +155,7 @@ function Portofolio() {
                 <img
                   src="/portofolio-dynatrace-dashboard-2.jpg"
                   alt="Zoomable"
-                  classNameName="rounded-md shadow-md"
+                  className="rounded-md shadow-md"
                 />
               </Zoom>
             </div>

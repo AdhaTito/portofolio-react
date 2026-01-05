@@ -23,7 +23,10 @@ function Contacts() {
         >
           <div className="w-full lg:mx-auto lg:w-2/3">
             <div className="w-full px-4 mb-8">
-              <label for="name" className="text-base font-bold text-mainColor ">
+              <label
+                htmlFor="name"
+                className="text-base font-bold text-mainColor "
+              >
                 Nama
               </label>
               <input
@@ -35,7 +38,10 @@ function Contacts() {
               />
             </div>
             <div className="w-full px-4 mb-8">
-              <label for="email" className="text-base font-bold text-mainColor">
+              <label
+                htmlFor="email"
+                className="text-base font-bold text-mainColor"
+              >
                 Email
               </label>
               <input
@@ -48,7 +54,7 @@ function Contacts() {
             </div>
             <div className="w-full px-4 mb-8">
               <label
-                for="message"
+                htmlFor="message"
                 className="text-base font-bold text-mainColor"
               >
                 Pesan
