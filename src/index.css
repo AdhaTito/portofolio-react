@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+@layer base {
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+}
+
+@theme {
+  /* --color-*: initial; */
+  --color-mainColor: #ff7a00;
+  --color-secondaryColor: #3f4f6f;
+  --color-ascentColor: #f09c4e;
+}
+
+@utility container {
+  padding-inline: 16px;
+  margin-inline: auto;
+}
