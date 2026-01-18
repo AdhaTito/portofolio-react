@@ -1,22 +1,26 @@
 @import "tailwindcss";
-@import "flowbite/src/themes/default";
+
+/* Beritahu Tailwind 4.0 untuk memantau file Flowbite di node_modules */
+@source "../node_modules/flowbite-react/dist/**/*.mjs";
+@source "../node_modules/flowbite/**/*.js";
+
+/* Jika kamu menggunakan plugin Flowbite untuk styling komponen (seperti tooltips, dropdown) */
 @plugin "flowbite/plugin";
-@source "../node_modules/flowbite";
 
 @layer base {
-  body {
-    font-family: "Poppins", sans-serif;
-  }
+    body {
+        font-family: "Poppins", sans-serif;
+    }
 }
 
 @theme {
-  /* --color-*: initial; */
-  --color-mainColor: #ff7a00;
-  --color-secondaryColor: #3f4f6f;
-  --color-ascentColor: #f09c4e;
+    /* --color-*: initial; */
+    --color-mainColor: #ff7a00;
+    --color-secondaryColor: #3f4f6f;
+    --color-ascentColor: #f09c4e;
 }
 
 @utility container {
-  padding-inline: 16px;
-  margin-inline: auto;
+    padding-inline: 16px;
+    margin-inline: auto;
 }
