@@ -6,7 +6,7 @@ import { useEffect } from "react";
 import Navbar from "./Components/Navbar";
 import Hero from "./Sections/Hero";
 import About from "./Sections/About";
-import Portofolio from "./Sections/Porrtofolio";
+import Portofolio from "./Sections/Portofolio";
 import Sertifikat from "./Sections/Sertifikat";
 import Skiils from "./Sections/Skills";
 import Experience from "./Sections/Experience";
